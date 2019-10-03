@@ -1,0 +1,2 @@
+# pgtserverlinux
+For pi devices
